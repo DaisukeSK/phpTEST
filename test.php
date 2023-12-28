@@ -15,6 +15,6 @@
 // return $dbh;
 // }
 
-$data=$_POST["username"]
+$data=$_POST["username"];
 
 var_dump($data);

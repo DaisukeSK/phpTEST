@@ -11,18 +11,18 @@
 
     <h2>index.php</h2>
 
-    <form action="./api/innerDir/test.php" method="post">
+    <form action="./innerDir/test.php" method="post">
         <input type="text" name="username" required>
         <input type="submit">
     </form>
 
 
-    <form action="./api/innerDir/innerDir2/test.php" method="post">
+    <form action="./innerDir/innerDir2/test.php" method="post">
         <input type="text" name="username" required>
         <input type="submit">
     </form>
 
-    <form action="./api/innerDir/innerDir2/innerDir3/test.php" method="post">
+    <form action="./innerDir/innerDir2/innerDir3/test.php" method="post">
         <input type="text" name="username" required>
         <input type="submit">
     </form>

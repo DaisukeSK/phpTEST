@@ -1,4 +1,4 @@
 <?php
 $data=$_POST["username"];
-echo "test1"."<br/>";
+echo "test2"."<br/>";
 var_dump($data);

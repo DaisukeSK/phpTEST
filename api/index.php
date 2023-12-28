@@ -9,9 +9,9 @@
 
 <body>
 
-    <h2>php test</h2>
+    <h2>php Test</h2>
 
-    <form action="test.php" method="post">
+    <form action="./test.php" method="post">
         <input type="text" name="username" required>
         <input type="submit">
     </form>

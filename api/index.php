@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    
+</head>
+
+<body>
+
+    <h2>index.php</h2>
+
+    <form action="./api/innerDir/test.php" method="post">
+        <input type="text" name="username" required>
+        <input type="submit">
+    </form>
+
+
+    <form action="./api/innerDir/innerDir2/test.php" method="post">
+        <input type="text" name="username" required>
+        <input type="submit">
+    </form>
+
+    <form action="./api/innerDir/innerDir2/innerDir3/test.php" method="post">
+        <input type="text" name="username" required>
+        <input type="submit">
+    </form>
+
+</body>
+
+</html>

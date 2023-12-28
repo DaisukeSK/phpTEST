@@ -9,7 +9,7 @@
 
 <body>
 
-    <h2>php</h2>
+    <h2>php test</h2>
 
     <form action="test.php" method="post">
         <input type="text" name="username" required>

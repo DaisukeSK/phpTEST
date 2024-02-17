@@ -7,7 +7,7 @@
 <body>
     <h2>php TEST</h2>
 
-    <form action="./test" method="post">
+    <form action="/test" method="post">
         <input type="text" name="username" required>
         <input type="submit">
     </form>

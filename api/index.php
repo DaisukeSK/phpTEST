@@ -12,7 +12,7 @@
         <input type="submit">
     </form>
 
-    <form action="../api/test2.php" method="post">
+    <form action="/test2" method="post">
         <input type="text" name="username" required>
         <input type="submit">
     </form>

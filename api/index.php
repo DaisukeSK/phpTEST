@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
+    <link href="../css/index.css" rel="stylesheet">
+    
 </head>
 
 <body>

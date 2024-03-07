@@ -5,7 +5,7 @@
     "routes": [
       { "src": "/test", "dest": "/api/folder/test.php" },
       { "src": "/test2", "dest": "/api/folder/test2.php" },
-      { "src": "../css/index.css", "dest": "/css/index.css" },
+      { "src": "/css/index.css", "dest": "/css/index.css" },
       { "src": "/(.*)", "dest": "/api/index.php" }
   ]
   }
